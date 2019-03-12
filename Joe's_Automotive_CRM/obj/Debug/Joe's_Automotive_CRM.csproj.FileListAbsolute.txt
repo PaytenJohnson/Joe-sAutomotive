@@ -1,0 +1,14 @@
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\bin\Debug\Joe's_Automotive_CRM.exe.config
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\bin\Debug\Joe's_Automotive_CRM.exe
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\bin\Debug\Joe's_Automotive_CRM.pdb
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe's_Automotive_CRM.csprojAssemblyReference.cache
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe_s_Automotive_CRM.Customers.resources
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe_s_Automotive_CRM.JoesAutomotive.resources
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe_s_Automotive_CRM.Properties.Resources.resources
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe's_Automotive_CRM.csproj.GenerateResource.cache
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe's_Automotive_CRM.csproj.CoreCompileInputs.cache
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe's_Automotive_CRM.exe
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe's_Automotive_CRM.pdb
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe_s_Automotive_CRM.Invoices.resources
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe_s_Automotive_CRM.Parts.resources
+C:\Users\000131184\source\repos\Joe's_Automotive_CRM\Joe's_Automotive_CRM\obj\Debug\Joe_s_Automotive_CRM.Vehicles.resources
